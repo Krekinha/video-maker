@@ -100,5 +100,11 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# Credentials
+credentials/*.json
+
 # TernJS port file
 .tern-port
